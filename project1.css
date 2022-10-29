@@ -37,11 +37,10 @@ div{
 	border-style: double;
 	border-width: 5px;
 	background-color: rgba(120, 197, 200, 0.7);
-	max-width: 30%;
+	max-width: 50%;
 	margin: auto;
 	text-align: center;
 	padding: 10px;
-	max-width: 30%;
 	min-width: 20%;
 }
 .popo{
